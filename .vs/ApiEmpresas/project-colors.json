@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "7ab568b7-4c11-484a-b794-ff1129944664": {
+      "ProjectGuid": "7ab568b7-4c11-484a-b794-ff1129944664",
+      "DisplayName": "ApiEmpresas.Services",
+      "ColorIndex": 0
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Arquivos Diversos",
+      "ColorIndex": -1
+    },
+    "c4610c08-fcf0-47c1-ba7f-e1c9d36cb377": {
+      "ProjectGuid": "c4610c08-fcf0-47c1-ba7f-e1c9d36cb377",
+      "DisplayName": "ApiEmpresa.Infra.Data",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}
